@@ -2,5 +2,5 @@ Bước 1. Cài đặt môi trường min_ds-env
 Bước 2. Mở anaconda prompt, kích hoạt môi trường min_ds-env bằng cú pháp: conda activate min_ds-env
 Bước 3. Mở jupyter notebook bằng cú pháp: jupyter notebook
 Bước 4. Truy cập tới đường dẫn thư mục chứa file notebook
-Bước 5. Mở file Final_Project.ipynb
+Bước 5. Mở file 19127607_19127630.ipynb
 Bước 6. Chọn Kernel -> Restart & Run all
